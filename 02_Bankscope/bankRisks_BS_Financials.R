@@ -1,4 +1,3 @@
-
 ###############
 #1.
 #This is the main R file for compiling and process data retrieved from Bankscope database.
