@@ -1,4 +1,3 @@
-#Here are some of my files of codes written in R, SAS, and Stata to compile data and conduct statistical analyses.
 
 ###############
 #1.
